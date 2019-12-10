@@ -1,3 +1,6 @@
+.DS_Store
+data/Mus_musculus.GRCm38.98.gtf 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
